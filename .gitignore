@@ -3,3 +3,4 @@ node_modules 2/
 .env
 .DS_Store
 config/firebase-service-account.json
+config/firebase-service-account.json
